@@ -33,6 +33,9 @@ Nous terminerons par un aperçu des modèles de dialogue oral de type *speech-to
 - Recent thread on Moshi (Twitter) → [Recent Thread on Moshi](https://x.com/laurent_besacie/status/1837169363587351037)  
 - Blog on Multimodal Speech-Text Models → [Read the Blog Post](https://europe.naverlabs.com/blog/on-multimodal-speech-text-pre-trained-models/)  
 - Research on Multimodal NLP at Naver Labs Europe → [Read Naver Labs Research Page on Multimodal NLP](https://europe.naverlabs.com/research/multimodal-nlp-for-hri/)  
-- **Colab Notebook with simulations (ASR, speech representations, …)** → [Open Notebook](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)  
+- **Colab Notebook with simulations (ASR, speech representations, …)** → [Open Notebook](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)
+- **Audio samples required** : you need a few short **WAV files** in **English** and **French** to run the notebook.  
+  - You can record your own audio clips (5–10 seconds each).  
+  - Or download a prepared archive → [compressed zip file](https://github.com/besacier/ETAL2025/blob/main/wav_samples.zip) 
 
 
