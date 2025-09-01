@@ -14,7 +14,7 @@ Nous terminerons par un aperçu des modèles de dialogue oral de type *speech-to
 ---
 
 ## Supports de cours  
-- **Transparents** : [Lien vers les slides]([link-to-the-slides](https://github.com/besacier/ETAL2025/blob/main/ETAL2025.pdf))  
+- **Transparents** : [Lien vers les slides](https://github.com/besacier/ETAL2025/blob/main/ETAL2025.pdf)
 - **Notebook (Colab)** : [ouvrir dans Google Colab](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)  
 
 ---
