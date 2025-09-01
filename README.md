@@ -15,7 +15,8 @@ Nous terminerons par un aperçu des modèles de dialogue oral de type *speech-to
 
 ## Supports de cours  (en anglais)
 - **Transparents** : [Lien vers les slides](https://github.com/besacier/ETAL2025/blob/main/ETAL2025.pdf)
-- **Notebook (Colab)** : [ouvrir dans Google Colab](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)  
+- **Notebook (Google Colab)** : [ouvrir dans Google Colab](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)  
+- **Similar Notebook (Jupyter Colab)** : [ouvrir dans Jupyter Colab](https://etal2025.isir.upmc.fr/lab/tree/laurent/ASR_Multimodal_Labs_JupyterLab.ipynb)  
 
 ---
 
