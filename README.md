@@ -13,13 +13,13 @@ Nous terminerons par un aperçu des modèles de dialogue oral de type *speech-to
 
 ---
 
-## Supports de cours  
+## Supports de cours  (en anglais)
 - **Transparents** : [Lien vers les slides](https://github.com/besacier/ETAL2025/blob/main/ETAL2025.pdf)
 - **Notebook (Colab)** : [ouvrir dans Google Colab](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)  
 
 ---
 
-## Plan du cours  
+## Plan du cours  (en anglais)
 1. Introduction to Speech Processing  
 2. Early Models for Speech: Bayes, HMMs, GMMs  
 3. The Neural Shift  
@@ -29,13 +29,13 @@ Nous terminerons par un aperçu des modèles de dialogue oral de type *speech-to
 7. Et maintenant ? *Is Speech-to-Text solved?*  
 
 ## Resources  
-- Follow me on Bluesky → [@lbesacier.bsky.social](https://bsky.app/profile/lbesacier.bsky.social)  
-- Recent thread on Moshi (Twitter) → [Recent Thread on Moshi](https://x.com/laurent_besacie/status/1837169363587351037)  
-- Blog on Multimodal Speech-Text Models → [Read the Blog Post](https://europe.naverlabs.com/blog/on-multimodal-speech-text-pre-trained-models/)  
-- Research on Multimodal NLP at Naver Labs Europe → [Read Naver Labs Research Page on Multimodal NLP](https://europe.naverlabs.com/research/multimodal-nlp-for-hri/)  
-- **Colab Notebook with simulations (ASR, speech representations, …)** → [Open Notebook](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)
-- **Audio samples required** : you need a few short **WAV files** in **English** and **French** to run the notebook.  
-  - You can record your own audio clips (5–10 seconds each).  
-  - Or download a prepared archive → [compressed zip file](https://github.com/besacier/ETAL2025/blob/main/wav_samples.zip) 
+- Suivez-moi sur Bluesky → [@lbesacier.bsky.social](https://bsky.app/profile/lbesacier.bsky.social)  
+- Fil récent sur Moshi (Twitter) → [Fil Twitter sur Moshi](https://x.com/laurent_besacie/status/1837169363587351037)  
+- Blog sur les modèles multimodaux parole–texte → [Lire l’article de blog](https://europe.naverlabs.com/blog/on-multimodal-speech-text-pre-trained-models/)  
+- Recherche sur le NLP multimodal chez Naver Labs Europe → [Consulter la page de recherche](https://europe.naverlabs.com/research/multimodal-nlp-for-hri/)  
+- **Notebook Colab avec simulations (ASR, représentations de la parole, …)** → [Ouvrir le notebook](https://colab.research.google.com/drive/13-qJfsHvVZNQ6SSBR3ULZw0HOqe05OwO?usp=sharing)  
+- **Échantillons audio requis** : vous aurez besoin de quelques courts fichiers **WAV** en **anglais** et en **français** pour exécuter le notebook.  
+  - Vous pouvez enregistrer vos propres extraits audio (5–10 secondes chacun).  
+  - Ou télécharger une archive prête à l’emploi → [fichier zip compressé](https://github.com/besacier/ETAL2025/blob/main/wav_samples.zip)  
 
 
